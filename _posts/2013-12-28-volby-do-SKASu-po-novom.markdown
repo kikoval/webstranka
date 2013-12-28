@@ -72,3 +72,5 @@ Náhradníkom je každý kandidát, ktorý v príslušných riadnych voľbách n
 
 Ak zanikne členovi ŠKASu jeho členstvo pred funkčného obdobia a na uvoľnené miesto nie je náhradník, Predsedníctvo AS bez zbytočného odkladu vyhlási na uvoľnené miesto doplňujúce voľby. Funkčné obdobie člena ŠKASu, ktorý bol zvolený v doplňujúcich voľbách, trvá do konca funkčného obdobia člena ŠKASu, ktorému členstvo predčasne zaniklo.
 
+
+Róbert Kysel
