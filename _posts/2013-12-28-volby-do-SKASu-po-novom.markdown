@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Prospechové štipendiá po novom
+title: Voľby do ŠKASu po novom
 tags: novinky
 ---
    
 Rok 2014 bude rokom volebným, a to nielen na celoštátnej úrovni. Na jar nás čakajú riadne voľby do ŠKASu. Prinášame preto prehľad volebných pravidiel podľa nových Zásad volieb do Akademického senátu FMFI UK.
 
-Akademický senát FMFI UK na svojom 18. riadnom zasadnutí dňa 21. októbra 2013 schválil nové Zásady volieb do Akademického senátu FMFI UK.
+Akademický senát FMFI UK na svojom 18. riadnom zasadnutí dňa 21. októbra 2013 schválil nové [Zásady volieb do Akademického senátu FMFI UK] (http://www.fmph.uniba.sk/index.php?id=3252).
 
 **Počet členov ŠKASu a dĺžka funkčného obdobia**
 
